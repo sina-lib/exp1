@@ -16,3 +16,4 @@ class Hospital:
 		return self.x
 
 
+print("sina")
